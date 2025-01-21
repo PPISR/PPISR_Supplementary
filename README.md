@@ -6,7 +6,7 @@ Our institute is dedicated to advancing knowledge in theoretical physics, biolog
 This repository provides supplementary materials such as datasets, figures, and scripts for research articles published by our faculty and researchers. Explore the folders to access resources for each department.
 
 ## **Structure**
-[Materials Science & Catalysis](Materials_Science_Catalysis/)
+[Materials Science & Catalysis](Materials_Science_&_Catalysis/)
 [Theoretical Sciences](Theoretical_Sciences/)
 [Biological Sciences](Biological_Sciences/)
 
